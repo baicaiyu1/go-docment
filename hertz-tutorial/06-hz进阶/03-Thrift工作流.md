@@ -8,7 +8,7 @@
 - 设计多服务拆分与字段兼容策略
 ## 前置知识
 - 已读 [06-hz进阶/01-hz命令全景](01-hz命令全景.md) 与 [02-IDL注解说明](02-IDL注解说明.md)
-- 了解 Thrift 的 struct / service 语法
+- 已读 [00-IDL基础入门](00-IDL基础入门.md)，了解 Thrift 的 struct / service 语法
 ## 一、写 IDL
 ```thrift
 // idl/user.thrift

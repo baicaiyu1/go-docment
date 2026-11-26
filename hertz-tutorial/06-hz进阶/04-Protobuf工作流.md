@@ -9,7 +9,7 @@
 - 定位 `protoc not found`、`go_package` 等报错
 ## 前置知识
 - 已读 [06-hz进阶/03-Thrift工作流](03-Thrift工作流.md)
-- 了解 proto3 的 message / service / option
+- 已读 [00-IDL基础入门](00-IDL基础入门.md)，了解 proto3 的 message / service / option
 - 能操作 PATH 环境变量
 ## 一、proto3 要点
 ```proto
